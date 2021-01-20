@@ -1,5 +1,5 @@
 ## Contact the Devs
-You can contact our developer team for customer support using the following email: [upicksupport@gmail.com](upicksupport@gmail.com) 
+You can contact our developer team for customer support using the following email: [upicksupport@gmail.com](mailto: upicksupport@gmail.com) 
 
 
 
