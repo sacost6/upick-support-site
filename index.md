@@ -1,3 +1,8 @@
+## Contact the Devs
+You can contact our developer team for customer support using the following email: [upicksupport@gmail.com](upicksupport@gmail.com) 
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/sacost6/upick-support-site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
