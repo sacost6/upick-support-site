@@ -7,7 +7,7 @@ You can view the work of each individual devs at the following locations:
 - [Danny's Github](https://github.com/dbelmo2) 
 
 ## Support or Contact
-Having trouble with U-Pick? You can contact our developer team for customer support using the following email upicksupport@gmail.com and we'll help sort it out. 
+Having trouble with U-Pick? You can contact our developer team for customer support using the following email [upickcontact@gmail.com] and we'll help sort it out. 
 
 
 
